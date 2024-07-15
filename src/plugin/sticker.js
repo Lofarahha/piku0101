@@ -7,7 +7,7 @@ const stickerCommand = async (m, gss) => {
   const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0].toLowerCase() : '';
 
   const packname = "";
-  const author = "𝐄𝐭𝐡𝐢𝐱-𝐌𝐃";
+  const author = "𝛥𝐿𝛯𝛸 𝛲𝛪𝛫𝑈";
 
   const validCommands = ['sticker', 's'];
 
